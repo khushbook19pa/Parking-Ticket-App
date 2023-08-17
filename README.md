@@ -1,4 +1,4 @@
-# Online-Realtime-Parking-Booking-App
+Parking-Booking-App
 
 See Live Demo: https://realtime-parking-booking-sys.firebaseapp.com/#/login
 
@@ -17,4 +17,8 @@ Technologies Used:
 Admin Credentials:  
 ID: admin@gmail.com
 Password: admin!234
+
+**by Khushboo Kumari**
+**mail - khushbookr481@gmail.com**
+
 
